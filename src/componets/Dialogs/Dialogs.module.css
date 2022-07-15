@@ -1,0 +1,20 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 3fr 20fr;
+}
+
+.item {
+  color: black;
+  text-decoration: none;
+
+}
+
+.item a {
+  color: black;
+ 
+}
+
+.item a.active {
+  color: black;
+ 
+}

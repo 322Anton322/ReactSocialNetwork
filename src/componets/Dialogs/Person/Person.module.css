@@ -1,0 +1,17 @@
+.personItems {
+    padding: 2px;
+}
+
+.personItems .active {
+    color: red;
+}
+
+.item a {
+    color: black;
+
+}
+
+.item a.active {
+    color: black;
+
+}
